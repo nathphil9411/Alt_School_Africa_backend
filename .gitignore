@@ -1,0 +1,33 @@
+# Ignore compiled files
+*.class
+*.jar
+*.war
+
+# Ignore dependency directories
+node_modules/
+vendor/
+
+# Ignore log files
+*.log
+log/
+
+# Ignore temporary files
+.DS_Store
+Thumbs.db
+
+# Ignore environment-specific files
+.env
+config/
+
+# Ignore build artifacts
+dist/
+build/
+target/
+
+# Ignore user-specific files
+.bash_history
+.viminfo
+.zshrc
+
+#ignore text environment 
+indexx.js
